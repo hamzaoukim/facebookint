@@ -1,4 +1,4 @@
 {
-  "showInterstitialAd": true,
+  "showInterstitialAd": false,
   "maxBackButtonPressCount": 3
 }
